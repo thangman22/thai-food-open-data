@@ -37,5 +37,43 @@
     "contain-milk": "none",
     "avg_calories": null,
     "cuisine": "chiness"
+  },
+  {
+    "name":  "ข้าวผัดกระเพรา",
+    "eng_name": "Fired rice with basil",
+    "rice": "possible",
+    "meat": ["pork" , "chicken","octopus","meat","mixed"],
+    "spicy": true,
+    "seafood": false,
+    "green_level": "none",
+    "contain-nut": "none",
+    "contain-milk": "none",
+    "avg_calories": null,
+    "cuisine": "thai"
+  },
+  {
+    "name":  "ข้าวขาหมู",
+    "eng_name": "BBQ pork Rice",
+    "rice": "possible",
+    "meat": ["pork"],
+    "spicy": false,
+    "seafood": false,
+    "green_level": "none",
+    "contain-nut": "none",
+    "contain-milk": "none",
+    "avg_calories": null,
+    "cuisine": "chiness"
+  },{
+    "name":  "ข้าวผัด",
+    "eng_name": "Fired rice",
+    "rice": "possible",
+    "meat": ["pork" , "chicken","octopus","meat","mixed"],
+    "spicy": false,
+    "seafood": false,
+    "green_level": "none",
+    "contain-nut": "none",
+    "contain-milk": "none",
+    "avg_calories": null,
+    "cuisine": "chiness"
   }
 ]
