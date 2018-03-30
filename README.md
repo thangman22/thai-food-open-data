@@ -12,7 +12,8 @@
 {
   "name":  "หมูทอดกระเทียม",
   "eng_name": "pork garlic stir fried",
-  "rice": "optional",
+  "rice": "possible",
+  "egg": "possible",
   "meat": ["pork"],
   "spicy": false,
   "seafood": false,
