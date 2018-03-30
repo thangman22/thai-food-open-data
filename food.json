@@ -2,7 +2,7 @@
   {
     "name":  "หมูทอดกระเทียม",
     "eng_name": "Pork Garlic Stir Fried",
-    "rice": "optional",
+    "rice": "possible",
     "meat": ["pork"],
     "spicy": false,
     "seafood": false,
@@ -15,7 +15,7 @@
   {
     "name":  "ข้าวมันไก่",
     "eng_name": "Chicken Rice",
-    "rice": "contain",
+    "rice": "possible",
     "meat": ["chicken"],
     "spicy": false,
     "seafood": false,
@@ -28,7 +28,7 @@
    {
     "name":  "ข้าวหมูแดง",
     "eng_name": "BBQ pork Rice",
-    "rice": "contain",
+    "rice": "possible",
     "meat": ["pork"],
     "spicy": false,
     "seafood": false,
