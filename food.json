@@ -24,5 +24,18 @@
     "contain-milk": "none",
     "avg_calories": null,
     "cuisine": "chiness"
+  },
+   {
+    "name":  "ข้าวหมูแดง",
+    "eng_name": "BBQ pork Rice",
+    "rice": "contain",
+    "meat": ["pork"],
+    "spicy": false,
+    "seafood": false,
+    "green_level": "none",
+    "contain-nut": "none",
+    "contain-milk": "none",
+    "avg_calories": null,
+    "cuisine": "chiness"
   }
 ]
