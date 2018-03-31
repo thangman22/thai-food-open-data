@@ -180,57 +180,5 @@
     "contain-milk": "possible",
     "avg_calories": null,
     "cuisine": "thai"
-  },
-  {
-    "name":  "ผัดผักบุ้งไฟแดง",
-    "eng_name": "Quick-fried water spinach seasoned with chili and soy sauce",
-    "rice": "not-contain",
-    "meat": [""],
-    "spicy": true,
-    "seafood": false,
-    "green_level": "none",
-    "contain-nut": "possible",
-    "contain-milk": "not-contain",
-    "avg_calories": null,
-    "cuisine": "thai"
-  },
-  {
-    "name":  "หูฉลาม",
-    "eng_name": "Shark's fin",
-    "rice": "not-contain",
-    "meat": ["shark"],
-    "spicy": false,
-    "seafood": true,
-    "green_level": "none",
-    "contain-nut": "not-contain",
-    "contain-milk": "not-contain",
-    "avg_calories": null,
-    "cuisine": "chiness"
-  },
-  {
-    "name":  "ขนมจีนน้ำยา",
-    "eng_name": "Rice noodles in fish curry sauce with vegetables",
-    "rice": "not-contain",
-    "meat": ["fish"],
-    "spicy": false,
-    "seafood": false,
-    "green_level": "none",
-    "contain-nut": "not-contain",
-    "contain-milk": "contain",
-    "avg_calories": null,
-    "cuisine": "chiness"
-  },
-  {
-    "name":  "ห่อหมกปู",
-    "eng_name": "Streamed Crab Curry in a Banana Leaf Cup",
-    "rice": "not-contain",
-    "meat": ["crab"],
-    "spicy": false,
-    "seafood": true,
-    "green_level": "none",
-    "contain-nut": "not-contain",
-    "contain-milk": "contain",
-    "avg_calories": null,
-    "cuisine": "chiness"
   }
 ]
