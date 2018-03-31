@@ -46,7 +46,7 @@
    "spicy": true,
    "seafood": false,
    "green_level": "none",
-   "contain-nut": "none",
+   "contain-nut": "contain",
    "contain-milk": "none",
    "avg_calories": 210,
    "cuisine": "chinese"
