@@ -39,6 +39,19 @@
     "cuisine": "chiness"
   },
   {
+   "name":  "ผัดผักบุ้ง",
+   "eng_name": "Stir Fried Swamp Cabbage",
+   "rice": "possible",
+   "meat": [],
+   "spicy": true,
+   "seafood": false,
+   "green_level": "none",
+   "contain-nut": "contain",
+   "contain-milk": "none",
+   "avg_calories": 210,
+   "cuisine": "chinese"
+  },
+  {
     "name":  "แกงจืดเต้าหู้หมูสับ",
     "eng_name": "Clear Soup with Bean Curd and Minced Pork",
     "rice": "not-contain",
