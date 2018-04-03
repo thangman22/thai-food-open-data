@@ -23,7 +23,7 @@
     "contain-nut": "none",
     "contain-milk": "none",
     "avg_calories": null,
-    "cuisine": "chiness"
+    "cuisine": "chinese"
   },
    {
     "name":  "ข้าวหมูแดง",
@@ -36,7 +36,7 @@
     "contain-nut": "none",
     "contain-milk": "none",
     "avg_calories": null,
-    "cuisine": "chiness"
+    "cuisine": "chinese"
   },
   {
    "name":  "ผัดผักบุ้ง",
@@ -62,7 +62,7 @@
     "contain-nut": "not-contain",
     "contain-milk": "not-contain",
     "avg_calories": null,
-    "cuisine": "chiness"
+    "cuisine": "chinese"
   },
   {
     "name":  "ผัดไท",
@@ -88,7 +88,7 @@
     "contain-nut": "possible",
     "contain-milk": "possible",
     "avg_calories": null,
-    "cuisine": "chiness"
+    "cuisine": "chinese"
   },
   {
     "name":  "ต้มยำกุ้ง",
@@ -114,7 +114,7 @@
     "contain-nut": "not-contain",
     "contain-milk": "not-contain",
     "avg_calories": null,
-    "cuisine": "chiness"
+    "cuisine": "chinese"
   },
   {
     "name":  "ต้มยำปลากรอบ",
@@ -218,7 +218,7 @@
     "contain-nut": "not-contain",
     "contain-milk": "not-contain",
     "avg_calories": null,
-    "cuisine": "chiness"
+    "cuisine": "chinese"
   },
   {
     "name":  "ขนมจีนน้ำยา",
@@ -231,7 +231,7 @@
     "contain-nut": "not-contain",
     "contain-milk": "contain",
     "avg_calories": null,
-    "cuisine": "chiness"
+    "cuisine": "chinese"
   },
   {
     "name":  "ห่อหมกปู",
@@ -244,6 +244,6 @@
     "contain-nut": "not-contain",
     "contain-milk": "contain",
     "avg_calories": null,
-    "cuisine": "chiness"
+    "cuisine": "chinese"
   }
 ]
