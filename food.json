@@ -258,5 +258,18 @@
     "contain-milk": "contain",
     "avg_calories": null,
     "cuisine": "chinese"
+  },
+  {
+    "name":  "ผัดกะเพรา",
+    "eng_name": "Basil Fried Rice",
+    "rice": "contain",
+    "meat": ["pork", "chicken", "beef", "seafood"],
+    "spicy": true,
+    "seafood": true,
+    "green_level": "none",
+    "contain-nut": "not-contain",
+    "contain-milk": "not-contain",
+    "avg_calories": null,
+    "cuisine": "thai"
   }
 ]
