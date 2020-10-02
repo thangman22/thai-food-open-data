@@ -271,5 +271,18 @@
     "contain-milk": "not-contain",
     "avg_calories": null,
     "cuisine": "thai"
+  },
+  {
+    "name":  "แคบหมู",
+    "eng_name": "Pork Snack",
+    "rice": "not-contain",
+    "meat": ["pork"],
+    "spicy": false,
+    "seafood": false,
+    "green_level": "none",
+    "contain-nut": "not-contain",
+    "contain-milk": "not-contain",
+    "avg_calories": null,
+    "cuisine": "thai"
   }
 ]
