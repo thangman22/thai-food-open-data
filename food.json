@@ -271,5 +271,31 @@
     "contain-milk": "not-contain",
     "avg_calories": null,
     "cuisine": "thai"
+  },
+  {
+    "name":  "แกงเขียวหวาน",
+    "eng_name": "Green Curry With Meat",
+    "rice": "not-contain",
+    "meat": ["pork", "chicken", "beef"],
+    "spicy": true,
+    "seafood": false,
+    "green_level": "none",
+    "contain-nut": "not-contain",
+    "contain-milk": "not-contain",
+    "avg_calories": null,
+    "cuisine": "thai"
+  },
+  {
+    "name":  "ยำปลากระป๋อง",
+    "eng_name": "Thai Spicy Canned Sardines Salad",
+    "rice": "not-contain",
+    "meat": ["fish"],
+    "spicy": true,
+    "seafood": true,
+    "green_level": "none",
+    "contain-nut": "not-contain",
+    "contain-milk": "not-contain",
+    "avg_calories": null,
+    "cuisine": "thai"
   }
 ]
