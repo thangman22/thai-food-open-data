@@ -257,6 +257,18 @@
     "contain_nut": "not-contain",
     "contain_milk": "contain",
     "avg_calories": null,
+    "cuisine": "chiness"
+  },
+  {
+    "name":  "ข้าวผัดกระเพราหมู",
+    "eng_name": "Fired rice with basil and pork",
+    "rice": "possible",
+    "meat": ["pork"],
+    "spicy": true,
+    "seafood": false,
+    "green_level": "none",
+    "contain-nut": "none",
+    "contain-milk": "none",
     "cuisine": "chinese"
   },
   {
@@ -273,6 +285,16 @@
     "cuisine": "thai"
   },
   {
+    "name":  "ข้าวผัดกระเพราไก่",
+    "eng_name": "Fired rice with basil and chicken",
+    "rice": "possible",
+    "meat": ["chicken"],
+    "spicy": true,
+    "seafood": false,
+    "green_level": "none",
+    "contain-nut": "none",
+    "contain-milk": "none",
+  },{
     "name":  "แกงเขียวหวาน",
     "eng_name": "Green Curry With Meat",
     "rice": "not-contain",
@@ -286,6 +308,106 @@
     "cuisine": "thai"
   },
   {
+
+    "name":  "ข้าวผัดกระเพราหมึก",
+    "eng_name": "Fired rice with basil and octopus",
+    "rice": "possible",
+    "meat": ["octopus"],
+    "spicy": true,
+    "seafood": false,
+    "green_level": "none",
+    "contain-nut": "none",
+    "contain-milk": "none",
+    "avg_calories": null,
+    "cuisine": "thai"
+  },
+  {
+    "name":  "ข้าวผัดกระเพราเนื้อ",
+    "eng_name": "Fired rice with basil and meat",
+    "rice": "possible",
+    "meat": ["meat"],
+    "spicy": true,
+    "seafood": false,
+    "green_level": "none",
+    "contain-nut": "none",
+    "contain-milk": "none",
+    "avg_calories": null,
+    "cuisine": "thai"
+  },
+  {
+    "name":  "ข้าวผัดกระเพราทะเล",
+    "eng_name": "Fired rice with basil and seafood",
+    "rice": "possible",
+    "meat": ["seafood"],
+    "spicy": true,
+    "seafood": false,
+    "green_level": "none",
+    "contain-nut": "none",
+    "contain-milk": "none",
+    "avg_calories": null,
+    "cuisine": "thai"
+  },
+  {
+    "name":  "ข้าวขาหมู",
+    "eng_name": "BBQ pork Rice",
+    "rice": "possible",
+    "meat": ["pork"],
+    "spicy": false,
+    "seafood": false,
+    "green_level": "none",
+    "contain-nut": "none",
+    "contain-milk": "none",
+    "avg_calories": null,
+    "cuisine": "chiness"
+  },{
+    "name":  "ข้าวผัดหมู",
+    "eng_name": "Fired rice with pork",
+    "rice": "possible",
+    "meat": ["pork"],
+    "spicy": false,
+    "seafood": false,
+    "green_level": "none",
+    "contain-nut": "none",
+    "contain-milk": "none",
+    "avg_calories": null,
+    "cuisine": "chiness"
+  },{
+    "name":  "ข้าวผัดไก่",
+    "eng_name": "Fired rice with chicken",
+    "rice": "possible",
+    "meat": ["chicken"],
+    "spicy": false,
+    "seafood": false,
+    "green_level": "none",
+    "contain-nut": "none",
+    "contain-milk": "none",
+    "avg_calories": null,
+    "cuisine": "chiness"
+  },{
+    "name":  "ข้าวผัดหมึก",
+    "eng_name": "Fired rice with octopus",
+    "rice": "possible",
+    "meat": ["octopus"],
+    "spicy": false,
+    "seafood": false,
+    "green_level": "none",
+    "contain-nut": "none",
+    "contain-milk": "none",
+    "avg_calories": null,
+    "cuisine": "chiness"
+  },{
+    "name":  "ข้าวผัดทะเล",
+    "eng_name": "Fired rice with seafood",
+    "rice": "possible",
+    "meat": ["seafood"],
+    "spicy": false,
+    "seafood": false,
+    "green_level": "none",
+    "contain-nut": "none",
+    "contain-milk": "none",
+    "avg_calories": null,
+    "cuisine": "chiness"
+  },{
     "name":  "ยำปลากระป๋อง",
     "eng_name": "Thai Spicy Canned Sardines Salad",
     "rice": "not-contain",
